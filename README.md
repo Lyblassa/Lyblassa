@@ -52,6 +52,8 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+
 
 
 ### ☁️ Cloud & Infrastructure
@@ -65,7 +67,7 @@
 
 ### 🧠 Data & AI
 ![AI](https://img.shields.io/badge/-AI-black?style=flat-square&logo=OpenAI)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square&logo=google)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102770?style=flat-square&logo=google)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
