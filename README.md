@@ -10,8 +10,8 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lyblassa-tchoutang-24a23a254)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=internet-explorer)](https://lyblassa-archange.web.app)
+[![Visit my LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lyblassa-tchoutang-24a23a254)
+[![View my Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=internet-explorer)](https://lyblassa-archange.web.app)
 
 ---
 
