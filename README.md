@@ -94,7 +94,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyblassa&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyblassa&layout=compact&cache_seconds=60)
+
 
 
 
